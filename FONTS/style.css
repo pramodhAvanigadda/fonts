@@ -1,0 +1,175 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dhurjati&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+@font-face {
+    font-family:Ananda ;
+    src: url("./FONTS/AnandaBlackPersonalUseRegular-rg9Rx.ttf");
+}   
+@font-face {
+    font-family:DB ;
+    src: url(./FONTS/Dirtyboy-BxYl.ttf);
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 3px;
+    box-shadow: 11px 11px 8px rgb(58, 53, 53);
+border-radius: 30px;
+}
+
+h2{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 3px;
+border-radius: 30px;
+width: 300px;
+}
+
+.image-right{
+    margin:right 10px ;
+    margin-top: 10px;
+    width: 500px;
+    height: 450px;
+    object-fit: cover;
+    object-position: -200px 10px;
+    display: inline-block;
+    box-shadow: 11px 11px 8px black;
+    border-radius: 20px; 
+   
+}
+   .pd2{
+    display:inline-block;
+    width: 900px;
+    height: 450px;
+    margin-left: 8px;
+    padding-left: 10px;
+   
+   }
+
+   .pd1{
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+   }
+   
+ 
+
+
+#pDes{
+    width: 800px;
+    display: inline-block;
+    text-align: justify;
+    margin-left: 20px;   
+    font-family: fantasy;
+    border: 6px dotted black;
+    background-clip:padding-box;
+    background-color: rgb(10, 14, 14);
+    color: aliceblue;
+}
+
+#D1{
+    width: 800px;
+    display: inline-block;
+    text-align: justify;
+    margin-left: 20px;   
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    border: 7px dotted black;
+    background-clip:content-box;
+    background-color: rgb(7, 11, 11);
+    color: aliceblue;
+}
+
+#D2{
+    width: 1320px;
+    display: inline-block;
+    text-align: justify;
+    margin-left: 20px;   
+    font-family:Ananda ;
+    border: 10px dotted black;
+    background-clip:border-box;
+    background-color: rgb(10, 12, 12);
+    color: aliceblue;
+}
+
+.jd{
+    font-family: "Dhurjati", sans-serif;
+    width: 800px;
+    display: inline-block;
+    text-align: justify;
+    margin-left: 20px;   
+    border: 7px dotted black;
+    background-clip:content-box;
+    background-color: rgb(7, 11, 11);
+    color: aliceblue;
+}
+
+.NTR{
+    margin:right 10px ;
+    margin-top: 10px;
+    width: 500px;
+    height: 350px;
+    object-fit: cover;
+    object-position: 0px 10px;
+    display: inline-block;
+    box-shadow: 11px 11px 8px black;
+    border-radius: 20px; 
+}
+
+.RC{
+    margin:right 10px ;
+    margin-top: 10px;
+    width: 500px;
+    height: 350px;
+    object-fit: cover;
+    object-position: 0px 10px;
+    display: inline-block;
+    box-shadow: 11px 11px 8px black;
+    border-radius: 20px; 
+}
+
+.RD{
+    font-family: "Dhurjati", sans-serif;
+    width: 800px;
+    display: inline-block;
+    text-align: justify;
+    margin-left: 20px;   
+    border: 7px dotted black;
+    background-clip:content-box;
+    background-color: rgb(7, 11, 11);
+    color: aliceblue;
+}
+
+
+.vijay{
+    margin:right 10px ;
+    margin-top: 10px;
+    width: 500px;
+    height: 350px;
+    object-fit: cover;
+    object-position: -0px -10px;
+    display: inline-block;
+    box-shadow: 11px 11px 8px black;
+    border-radius: 20px; 
+}
+
+.vd{
+    font-family: "DB";
+    font-size: 1.4rem;
+    width: 800px;
+    display: inline-block;
+    text-align: justify;
+    margin-left: 20px;   
+    border: 7px dotted black;
+    background-clip:content-box;
+    background-color: rgb(7, 11, 11);
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(112, 138, 138);
+}
